@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="type_label">
+        <attr name="label_left" format="reference" />
+        <attr name="label_name" format="string" />
+        <attr name="label_name_color" format="color" />
+        <attr name="label_right" format="reference" />
+    </declare-styleable>
+</resources>
